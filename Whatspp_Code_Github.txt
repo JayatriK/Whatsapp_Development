@@ -7,3 +7,5 @@ WHATSAPP_DEVELOPMENT
 3. Character Code
 
 4. Digital (Image, Audio & Video) Code
+
+5. Hide the last seen code
