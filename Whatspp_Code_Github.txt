@@ -9,3 +9,7 @@ WHATSAPP_DEVELOPMENT
 4. Digital (Image, Audio & Video) Code
 
 5. Hide the last seen code
+
+6. Add audio feature
+
+7. Add video feature
