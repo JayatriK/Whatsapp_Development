@@ -13,3 +13,5 @@ WHATSAPP_DEVELOPMENT
 6. Add audio feature
 
 7. Add video feature
+
+8. Add whats app status feature
